@@ -1,20 +1,25 @@
 # Learning Python 🐍
 
-This repository contains my notes, practice code, and beginner projects as I learn Python step-by-step.
+Welcome! This repository documents my journey of learning Python — through notes, code snippets, and beginner-friendly projects.
 
-## Topics I will cover:
- 1. Variables & Data Types
- 2. Loops & Conditionals
- 3. Functions
- 4. Lists, Tuples, Dictionaries
- 5. File Handling
- 6. Object-Oriented Programming
- 7. Small Projects (like calculator, to-do app, etc.)
+##  Topics I’ll Cover
+- Variables & Data Types  
+- Loops & Conditionals  
+- Functions  
+- Lists, Tuples, Dictionaries  
+- File Handling  
+- Object-Oriented Programming  
+- Small Projects (Calculator, To-Do App, etc.)
 
-## 📅 Started on: May 2025
+##  Goal
+I’m learning Python to build a solid foundation in AI, Machine Learning, and Data Science.
 
-> I’m learning Python to build a strong foundation for AI, ML, and Data Science.
+##  Started: May 2025
 
-🛠️ Currently learning — will update this repo with code and projects soon. 
+##  Work in Progress
+I'm currently learning and will keep updating this repository regularly with:
+- Python notes
+- Practice problems
+- Mini projects
 
 
