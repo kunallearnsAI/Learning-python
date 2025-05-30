@@ -1,25 +1,18 @@
-# Learning Python 🐍
+# 🧮 Basic Calculator in Python
 
-Welcome! This repository documents my journey of learning Python — through notes, code snippets, and beginner-friendly projects.
+This is a beginner-level calculator project created during my Python learning journey.
 
-##  Topics I’ll Cover
-- Variables & Data Types  
-- Loops & Conditionals  
-- Functions  
-- Lists, Tuples, Dictionaries  
-- File Handling  
-- Object-Oriented Programming  
-- Small Projects (Calculator, To-Do App, etc.)
+## 💡 What It Does
+- Takes two numbers and an operator from the user
+- Performs +, -, *, /
+- Uses `float()` to support decimal numbers
 
-##  Goal
-I’m learning Python to build a solid foundation in AI, Machine Learning, and Data Science.
+## 📌 Example
+```
+Enter the operator (+,-,*,/): +
+Enter the first number: 2.5
+Enter the second number: 3.5
+6.0
+```
 
-##  Started: May 2025
-
-##  Work in Progress
-I'm currently learning and will keep updating this repository regularly with:
-- Python notes
-- Practice problems
-- Mini projects
-
-
+## 📅 Day 20 of Python Learning
