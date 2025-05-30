@@ -19,5 +19,4 @@ I’m learning Python to build a solid foundation in AI, Machine Learning, and D
 ##  Work in Progress
 I'm currently learning and will keep updating this repository regularly with:
 - Python notes
-- Practice problems
 - Mini projects
