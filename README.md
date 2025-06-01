@@ -12,7 +12,7 @@ Welcome! This repository documents my journey of learning Python — through not
 - Small Projects (Calculator, To-Do App, etc.)
 
 ##  Goal
-I’m learning Python to build a solid foundation in AI, Machine Learning,Deep learning and genrative AI
+I’m learning Python to build a solid foundation in Artificial Intelligence , Machine Learning , Deep learning and Genrative AI
 
 ##  Started: May 2025
 
