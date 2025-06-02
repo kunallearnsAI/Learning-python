@@ -9,7 +9,7 @@ Welcome! This repository documents my journey of learning Python — through not
 - Lists, Tuples, Dictionaries  
 - File Handling  
 - Object-Oriented Programming  
-- Small Projects (Calculator, To-Do App, etc.)
+- Small Projects (Calculator, Number guessing game , etc.)
 
 ##  Goal
 I’m learning Python to build a solid foundation in Artificial Intelligence , Machine Learning , Deep learning and Genrative AI
