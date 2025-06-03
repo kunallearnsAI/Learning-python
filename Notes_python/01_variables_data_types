@@ -1,0 +1,108 @@
+                                                                       ...Variable and data types...
+ 
+What is variable?
+-----------------
+>A variable is like a container that holds the data.
+>When you Create a variable you're creating a space in memory and assigning it to some value.
+Example:
+a = 2
+# 'a' here is variable that is used to refer the value and '2' is the value store in variable and datatype of '2' is integer type. 
+b = True
+# 'b' here is variable that is used to refer the value and 'True' is the value store in variable and datatype of 'True' is boolean type. 
+c = "Kunal"
+# 'c' here is variable that is used to refer the value and 'Kunal' is the value store in variable and datatype of 'Kunal' is string type. 
+d = none
+# 'd' here is variable that is used to refer the value and 'none' is the value store in variable and datatype of 'none' is none type. 
+
+What is a datatype?
+-------------------
+In python,datatypes are the type of data a variable stores.
+
+# There are 14 built in data types,grouped into 8 main catagories.
+1. Numeric Type:
+   # Integer:
+   Ex- 3,-8,0
+   # Float: real numbers including decimal part
+   EX- 7,-3,0.5,-6.2
+   # Complex: contain real and imaginary part.
+   EX- 3+4i
+   >now 'i' is iota(imaginary part) its value in mathematics is -1 and 3 is the real number.
+2. Boolean Type:
+   >They contain only two value 'True' or 'False'
+   EX:
+   is_sunny = True
+   passed_exam = False
+3. Text Type:
+   # String:
+   >It represent text in " " or ' '.
+   EX:
+   name = "Kunal" or 'Kunal'  [both " and ' are correct]
+4. None Type:
+   It represent absence of a value or null.
+   EX:
+   X = none
+5. Sequence Type:
+   # List:
+     >A list is an ordered collection of data with elements seprated by comma and enclose with square brackets.
+     >Lists are mutable, meaning their elements can be changed, added, or removed after the list is created.
+     EX:
+     list1 = [8 , 2.3 , [-4,5] , ["apple" , "orange"]]
+     print(list1)
+   # Tuple:
+     >The tuples are the ordered collection of the data with elements seprated by commas(,) and enclose in Parentheses.
+     >They are imutable, meaning their elements cannot be changed, added, or removed after tuple is created.
+     EX:
+     Tuple1 = (("Parrot" , "Sparrow") , ("Data" , "science"))
+     print(Tuple1)
+   # Range():
+     >In python range() is built in function use to genrate sequence of numbers.
+     >It is commanly used in loops when you have to repeate something certain number of times.
+     EX:
+     for i in range(5):
+     print(i)
+        Tne output will be 0,1,2,3,4
+6. Set types:
+     # Set:
+       >A set is built in data type in python used to store unodered collection of unique elements.
+       >The sets are mutable and represented in curly bracket{}
+       EX:
+       Set = {1 , 2 , 3 }
+     # Frozenset:
+       They are same as set datatype but thay are imutable.
+7. Mapping Types:
+     # Dictionry:
+       >They are the data types which store the collection of data in key-value pairs.
+       EX:
+       dict1 = {"name": "sakshi" , "age": 20 , "can drive": "yes"}
+       print(dict1)
+8. Binary types:
+     # Bytes:
+      > The bytes is a data type used to represent a group of byte number.
+      >Bytes i just like an array which can hold multiple value.It can store number between 0 to 255(included).
+      > They cannot hold negative numbers.
+      >They are immutable.
+       EX:
+         a = [10 , 20 , 30 , 40] #list
+         b = bytes(a)   # list to bytes
+         print(b[0],b[1])
+
+
+         for i in b:
+             print(i)
+     # Bytearray:
+       >They are same as bytes but they are Mutable.
+     
+       
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
