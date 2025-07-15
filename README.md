@@ -47,3 +47,18 @@ I'm learning Python to build a solid foundation for:
 ```bash
 git clone https://github.com/kunallearnsAI/Learning-python.git
 
+
+## 🖼️ Project Demos
+
+### 🎯 Quiz Game
+![Quiz Demo](./quiz_demo.png)
+
+### 🔢 Number Guessing Game
+![Guessing Game Demo](./guessing_demo.png)
+
+### ➕ Calculator
+![Calculator Demo](./calculator_demo.png)
+
+
+
+
