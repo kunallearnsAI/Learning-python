@@ -37,6 +37,7 @@ I'm learning Python to build a solid foundation for:
 | [`calculator.py`](./calculator.py) | Basic calculator for +, −, ×, ÷ |
 | [`guess_game.py`](./guess_game.py) | Number guessing game using the random module |
 | [`quiz.py`](./quiz.py) | Terminal-based quiz game with scoring |
+|.['_encoder_decoder.py_'](./encoder_decoder.py)|Terminal-based|
 
 ---
 
@@ -58,6 +59,9 @@ git clone https://github.com/kunallearnsAI/Learning-python.git
 
 ### ➕ Calculator
 ![Calculator Demo](./calculator_demo.png)
+
+### Encoder and Decoder
+![encoder and decoder Demo](./Encode or Decode.png)
 
 
 
